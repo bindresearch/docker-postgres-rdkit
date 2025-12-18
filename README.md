@@ -1,3 +1,5 @@
+Forked from the original to update Postgres to version 18 and RDKit to version 2025-09.
+
 postgres-rdkit
 ==============
 
